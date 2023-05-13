@@ -1,0 +1,70 @@
+.table-container {
+  background-color: #edf7f6;
+  border-radius: 10px;
+  box-shadow: 0px 0px 2px 0px #979c9b;
+  padding: 20px;
+  margin: 10px;
+  width: 85vw;
+}
+
+.option-selector {
+  height: 30px;
+  width: 140px;
+  border-radius: 10px;
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #362f2e;
+  cursor: pointer;
+  border-color: #979c9b;
+  background-color: #979c9b;
+}
+
+.saved-percentage {
+  color: #e61c0e;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 600;
+  background-color: #ad736f;
+  border-radius: 5px;
+}
+
+.premium-text {
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 400;
+  color: #0f0e0e;
+}
+
+.amount {
+  font-weight: 700;
+}
+
+label {
+  font-size: 10px;
+  color: #979c9b;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+
+.remove-button {
+  height: 30px;
+  width: 96px;
+  border-radius: 10px;
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #362f2e;
+  cursor: pointer;
+  border: none;
+  background-color: #979c9b;
+}
+
+.sub-total-text {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 400;
+  color: #0f0e0e;
+  text-align: center;
+}
+.sub-amount {
+  font-weight: 800;
+}

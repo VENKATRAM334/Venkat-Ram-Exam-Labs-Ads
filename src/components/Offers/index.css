@@ -1,0 +1,120 @@
+.guaranteed-container {
+  background-color: #d5f5e3;
+  border: 1px solid #43bf7b;
+  border-radius: 10px;
+  width: 90vw;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .guaranteed-container {
+    background-color: #d5f5e3;
+    border: 1px solid #43bf7b;
+    border-radius: 10px;
+    width: 240px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+}
+
+.badge-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.badge-icon {
+  height: 40px;
+  width: 40px;
+}
+
+.satisfaction-text {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 800;
+  color: #43bf7b;
+}
+
+.pass-rate {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 600;
+  color: #0a0a0a;
+}
+.text {
+  color: #4a524e;
+  font-weight: 400;
+}
+
+.exams-labs-container {
+  background-color: #ffffff;
+  border: 1px solid #43bf7b;
+}
+
+.why-choose-text {
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 600;
+  color: #0a0a0a;
+  padding: 10px;
+}
+
+.over {
+  color: #798a81;
+  font-size: 18px;
+}
+.span-content {
+  color: #43bf7b;
+}
+
+.correct-mark-icon {
+  height: 20px;
+  width: 20px;
+  padding: 0px;
+  padding-top: 5px;
+  margin: 0px;
+}
+
+.mark-content-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.normal-text {
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 600;
+  color: #798a81;
+}
+.text-content {
+  color: #0a0a0a;
+}
+.card {
+  width: 220px;
+  padding: 10px;
+}
+
+.mca-image {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.need-help-container {
+  background-color: #f5cf9d;
+  border: 1px solid #cf7908;
+  border-radius: 10px;
+  width: 240px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.customer-support {
+  color: #0b83de;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+}
